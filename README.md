@@ -9,4 +9,4 @@ Flatcontent compiles Markdown folders into a single JSON content artifact, suita
 
 ## Install
 ```bash
-npm install -g flatcontent
+npm install flatcontent
