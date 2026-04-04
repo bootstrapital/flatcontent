@@ -1,6 +1,6 @@
 # flatcontent
 
-Flatcontent compiles Markdown folders into a single JSON content artifact, suitable for runtime rendering by a static HTML shell (e.g., Pageplane).
+Flatcontent compiles Markdown folders into a single JSON content artifact, suitable for runtime rendering by a static HTML shell (e.g., [Pageplane](https://pageplane.app?utm_source=flatcontent-repo).
 
 ## Why
 - Keep content in a plain Git repo (Markdown + frontmatter)
