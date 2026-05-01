@@ -16,8 +16,9 @@ npm install flatcontent
 
 ### TODO: Add better setup instructions
 
-'''
+```
+# WIP
 1. Create `flatcontent.config.json`
 2. Copy github action from [example](https://github.com/bootstrapital/pageplane-content)
 3. In repo, settings > GH Pages > Deploy from GH Action
-'''
+```
